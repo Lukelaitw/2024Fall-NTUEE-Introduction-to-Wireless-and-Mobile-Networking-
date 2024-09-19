@@ -3,6 +3,7 @@
 ## install numpy and matplotlib
 
 make sure install numpy and matplotlib
+
 here you can copy the terminal command
 
 ```
